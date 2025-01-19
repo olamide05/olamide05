@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning Java and improving my DSA skills<br>🎯 Goals: Becoming a skilled developer and contributing to impactful projects<br>🎲 Fun fact: I teach kids how to code in CoderDojo!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java and improving my DSA skills<br>🎯 Goals: Becoming a skilled developer and contributing to impactful projects<br>🎲 Fun fact: I teach kids how to code in CoderDojo!</p>
 
 ###
 
@@ -49,19 +49,14 @@
 <h2 align="left">Skills</h2>
 
 <p align="left">
-  <strong>Languages:</strong> Java, Python, JavaScript, TypeScript, C++<br>
-  <strong>Frameworks:</strong> React, Vue.js, Node.js, Next.js<br>
-  <strong>Tools:</strong> Git, Docker, Kubernetes, Jest
+  <strong>Languages:</strong> Java, Python, JavaScript, TypeScript<br>
+  <strong>Frameworks:</strong> React, Vue.js, Node.js<br>
+  <strong>Tools:</strong> Git, Docker, Kubernetes
 </p>
 
 ###
 
-<h2 align="left">Blog</h2>
 
-<p align="left">
-  Check out my blog where I write about programming, development best practices, and more:<br>
-  <a href="https://medium.com/@yourusername" target="_blank">My Blog</a>
-</p>
 
 ###
 
